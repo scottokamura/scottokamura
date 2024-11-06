@@ -4,7 +4,6 @@ I am passionate about analyzing data and finding hidden patterns and insights. U
 
 Skills: Python | Colab | Jupyter Notebook | SQL | Tableau
 
-- 🌱 I’m currently learning R and Tableau. 
 - 👯 I’m looking to collaborate on projects to improve animal welfare. 
 - 💬 Ask me about my bootcamp experience! 
 - 😄 Pronouns: he/him 
