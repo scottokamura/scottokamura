@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Scott Okamura
-#### Data Scientist | Flatiron School Graduate
+#### Data Scientist/Engineer | Software Engineer | AI/Machine Learning Engineer | Flatiron School Graduate
 I am passionate about analyzing data and finding hidden patterns and insights. Using my experience as a former high school chemistry teacher, I can comfortably present complex and technical concepts to a wide range of audiences. 
 
 Skills: Python | SQL/PostgreSQL | scitkit-learn | Linux | Git | Cloud(AWS, GCP, Azure) | React | Javascript/Typescript |
