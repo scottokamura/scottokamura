@@ -2,9 +2,8 @@
 #### Data Scientist | Flatiron School Graduate
 I am passionate about analyzing data and finding hidden patterns and insights. Using my experience as a former high school chemistry teacher, I can comfortably present complex and technical concepts to a wide range of audiences. 
 
-Skills: Python | Colab | Jupyter Notebook | SQL | Tableau
+Skills: Python | SQL/PostgreSQL | scitkit-learn | Linux | Git | Cloud(AWS, GCP, Azure) | React | Javascript/Typescript |
 
-- 👯 I’m looking to collaborate on projects to improve animal welfare. 
 - 💬 Ask me about my bootcamp experience! 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: 🇯🇵/🇺🇸 bilingual 
